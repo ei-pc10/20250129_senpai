@@ -1,0 +1,148 @@
+{
+    "caption": "SHIBATA_street",
+    "members": [
+      {
+        "num": "1",
+        "場所": "桜",
+        "model": "assets/sakura.glb",
+        "position": "",
+        "rotation": "",
+        "scale": "1 1 1",
+        "animation": "",
+        "latitude": "37.956296639834825",
+        "longitude": "139.33769872162506"
+      },
+      {
+        "num": "2",
+        "場所": "テニスボール",
+        "model": "assets/tenisuboru.glb",
+        "position": "",
+        "rotation": "0 0 0",
+        "scale": "1 1 1",
+        "animation": "property: rotation; to: 0 360 0; loop: true; dur: 15000; easing: linear;",
+        "latitude": "37.95618765135197",
+        "longitude": "139.3373653532007"
+      },
+      {
+        "num": "2",
+        "場所": "テニスラケット",
+        "model": "assets/tenisuraketto.glb",
+        "position": "",
+        "rotation": "80 -140 10",
+        "scale": "3 3 3",
+        "animation": "",
+        "latitude": "37.95624089521487",
+        "longitude": "139.33741741580295"
+      },
+      {
+        "num": "3",
+        "場所": "カトリック教会",
+        "model": "assets/katoriku.glb",
+        "position": "",
+        "rotation": "0 0 0",
+        "scale": "0.5 0.5 0.5",
+        "animation": "property: rotation; to: 0 360 0; loop: true; dur: 15000; easing: linear;",
+        "latitude": "37.95593441278209",
+        "longitude": "139.33726371648595"
+      },
+      {
+        "num": "4",
+        "場所": "きぬの夕月",
+        "model": "assets/kinunoyuugetsu.glb",
+        "position": "",
+        "rotation": "0 0 0",
+        "scale": "3 3 3",
+        "animation": "property: rotation; to: 0 360 0; loop: true; dur: 15000; easing: linear;",
+        "latitude": "37.95567155663421",
+        "longitude": "139.33740600788659"
+      },
+      {
+        "num": "5",
+        "場所": "野球バット(新発田城)",
+        "model": "assets/yakyuubatto.glb",
+        "position": "",
+        "rotation": "30 0 30",
+        "scale": "1 1 1",
+        "animation": "",
+        "latitude": "37.955594267615496",
+        "longitude": "139.33780814993966"
+      },
+      {
+        "num": "5",
+        "場所": "野球ボール(新発田城)",
+        "model": "assets/yakyuuboru.glb",
+        "position": "",
+        "rotation": "0 0 90",
+        "scale": "2 2 2",
+        "animation": "property: rotation; to: -360 0 90; loop: true; dur: 600; easing: linear;",
+        "latitude": "37.955559361650494",
+        "longitude": "139.3377068525622"
+      },
+      {
+        "num": "7",
+        "場所": "あやめ",
+        "model": "assets/ayame.glb",
+        "position": "",
+        "rotation": "0 0 0",
+        "scale": "2 2 2",
+        "animation": "property: rotation; to: 0 360 0; loop: true; dur: 15000; easing: linear;",
+        "latitude": "37.95591838499512",
+        "longitude": "139.33815405410706"
+      },
+      {
+        "num": "8",
+        "場所": "カレーライス",
+        "model": "assets/kare.glb",
+        "position": "",
+        "rotation": "-25 180 0",
+        "scale": "3 3 3",
+        "animation": "",
+        "latitude": "37.95630270984656",
+        "longitude": "139.33780404775894"
+      },
+      {
+        "num": "9",
+        "場所": "ダイコン",
+        "model": "assets/daikon.glb",
+        "position": "",
+        "rotation": "30 0 30",
+        "scale": "1.5 1.5 1.5",
+        "animation": "property: rotation; to: 0 360 0; loop: true; dur: 15000; easing: linear;",
+        "latitude": "37.95618606939443",
+        "longitude": "139.3380220726254"
+      },
+      {
+        "num": "10",
+        "場所": "トマト",
+        "model": "assets/tomato.glb",
+        "position": "",
+        "rotation": "0 0 0",
+        "scale": "3 3 3",
+        "animation": "property: rotation; to: 0 360 0; loop: true; dur: 15000; easing: linear;",
+        "latitude": "37.95620140221233",
+        "longitude": "139.33796641679018"
+      },
+      {
+        "num": "11",
+        "場所": "ピーマン",
+        "model": "assets/piman.glb",
+        "position": "",
+        "rotation": "0 0 0",
+        "scale": "1.5 1.5 1.5",
+        "animation": "property: rotation; to: 0 360 0; loop: true; dur: 15000; easing: linear;",
+        "latitude": "37.95624951551675",
+        "longitude": "139.33795702905894"
+      },
+      {
+        "num": "12",
+        "場所": "サムライ",
+        "model": "assets/samurai.glb",
+        "position": "",
+        "rotation": "0 0 0",
+        "scale": "3 3 3",
+        "animation": "property: rotation; to: 0 360 0; loop: true; dur: 15000; easing: linear;",
+        "latitude": "37.95560410290316",
+        "longitude": "139.3374954744629"
+      }
+    ]
+  }
