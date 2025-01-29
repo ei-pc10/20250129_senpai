@@ -4,7 +4,7 @@
       {
         "num": "1",
         "場所": "桜",
-        "model": "assets/sakura.glb",
+        "model": "sakura.glb",
         "position": "",
         "rotation": "",
         "scale": "1 1 1",
@@ -15,7 +15,7 @@
       {
         "num": "2",
         "場所": "テニスボール",
-        "model": "assets/tenisuboru.glb",
+        "model": "tenisuboru.glb",
         "position": "",
         "rotation": "0 0 0",
         "scale": "1 1 1",
@@ -26,7 +26,7 @@
       {
         "num": "2",
         "場所": "テニスラケット",
-        "model": "assets/tenisuraketto.glb",
+        "model": "tenisuraketto.glb",
         "position": "",
         "rotation": "80 -140 10",
         "scale": "3 3 3",
@@ -37,7 +37,7 @@
       {
         "num": "3",
         "場所": "カトリック教会",
-        "model": "assets/katoriku.glb",
+        "model": "katoriku.glb",
         "position": "",
         "rotation": "0 0 0",
         "scale": "0.5 0.5 0.5",
@@ -48,7 +48,7 @@
       {
         "num": "4",
         "場所": "きぬの夕月",
-        "model": "assets/kinunoyuugetsu.glb",
+        "model": "kinunoyuugetsu.glb",
         "position": "",
         "rotation": "0 0 0",
         "scale": "3 3 3",
@@ -59,7 +59,7 @@
       {
         "num": "5",
         "場所": "野球バット(新発田城)",
-        "model": "assets/yakyuubatto.glb",
+        "model": "yakyuubatto.glb",
         "position": "",
         "rotation": "30 0 30",
         "scale": "1 1 1",
@@ -70,7 +70,7 @@
       {
         "num": "5",
         "場所": "野球ボール(新発田城)",
-        "model": "assets/yakyuuboru.glb",
+        "model": "yakyuuboru.glb",
         "position": "",
         "rotation": "0 0 90",
         "scale": "2 2 2",
@@ -81,7 +81,7 @@
       {
         "num": "7",
         "場所": "あやめ",
-        "model": "assets/ayame.glb",
+        "model": "ayame.glb",
         "position": "",
         "rotation": "0 0 0",
         "scale": "2 2 2",
@@ -92,7 +92,7 @@
       {
         "num": "8",
         "場所": "カレーライス",
-        "model": "assets/kare.glb",
+        "model": "kare.glb",
         "position": "",
         "rotation": "-25 180 0",
         "scale": "3 3 3",
@@ -103,7 +103,7 @@
       {
         "num": "9",
         "場所": "ダイコン",
-        "model": "assets/daikon.glb",
+        "model": "daikon.glb",
         "position": "",
         "rotation": "30 0 30",
         "scale": "1.5 1.5 1.5",
@@ -114,7 +114,7 @@
       {
         "num": "10",
         "場所": "トマト",
-        "model": "assets/tomato.glb",
+        "model": "tomato.glb",
         "position": "",
         "rotation": "0 0 0",
         "scale": "3 3 3",
@@ -125,7 +125,7 @@
       {
         "num": "11",
         "場所": "ピーマン",
-        "model": "assets/piman.glb",
+        "model": "piman.glb",
         "position": "",
         "rotation": "0 0 0",
         "scale": "1.5 1.5 1.5",
@@ -136,7 +136,7 @@
       {
         "num": "12",
         "場所": "サムライ",
-        "model": "assets/samurai.glb",
+        "model": "samurai.glb",
         "position": "",
         "rotation": "0 0 0",
         "scale": "3 3 3",
